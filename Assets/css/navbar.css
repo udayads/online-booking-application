@@ -1,0 +1,36 @@
+.topnav{
+  height: 100px !important;
+  background: #FFBA19 0% 0% no-repeat padding-box;
+border-bottom: 1px solid #707070;
+opacity: 1;
+}
+.logo{
+  font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 50px;
+color: #000000;
+}
+.make-nav{
+  display: contents !important;
+}
+.nav-link{
+  font-family: 'Times New Roman' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 26px !important;
+line-height: 41px !important;
+color: #000000 !important;
+}
+.nav-item{
+  margin: 20px !important;
+}
+.navbar{
+  background: #FFBA19 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+  z-index: 10;
+}
+.fixed-top-2 {
+  margin-top: 100px;
+}
